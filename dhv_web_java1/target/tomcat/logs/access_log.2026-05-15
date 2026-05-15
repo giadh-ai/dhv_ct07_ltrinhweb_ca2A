@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:11:42 +0000] "GET /?id=4483517a-4a7e-4b4c-9e36-7e30bb7c7b34&vscodeBrowserReqId=1778836297378 HTTP/1.1" 200 52 http-bio-8080-exec-1 566
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:11:48 +0000] "GET / HTTP/1.1" 200 52 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:11:48 +0000] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:12:25 +0000] "GET /?id=4483517a-4a7e-4b4c-9e36-7e30bb7c7b34&vscodeBrowserReqId=1778836344079 HTTP/1.1" 200 60 http-bio-8080-exec-6 47
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:13:55 +0000] "GET /?id=4483517a-4a7e-4b4c-9e36-7e30bb7c7b34&vscodeBrowserReqId=1778836434136 HTTP/1.1" 200 64 http-bio-8080-exec-8 50
+0:0:0:0:0:0:0:1 - - [15/May/2026:09:14:40 +0000] "GET /?id=4483517a-4a7e-4b4c-9e36-7e30bb7c7b34&vscodeBrowserReqId=1778836479415 HTTP/1.1" 200 65 http-bio-8080-exec-10 30
